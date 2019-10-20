@@ -1,6 +1,6 @@
 flows:
-  2d027e14-5e59-486a-9368-6ee5cfb32872: {ver: 6, file: ABCD.snapshot, comments: Introduced
-      variable for the log prefix, author: anonymous, created: 1571598351529, flowName: ABCD,
+  2d027e14-5e59-486a-9368-6ee5cfb32872: {ver: 7, file: ABCD.snapshot, comments: Changed
+      processor name for logging, author: anonymous, created: 1571601455753, flowName: ABCD,
     flowDesc: This is a test flow}
   bd56c0b7-f636-43e5-ac02-74ed6e34fce3: {ver: 1, file: ABCD_2.snapshot, comments: Initial
       commit, author: anonymous, created: 1571596942977, flowName: ABCD 2, flowDesc: This

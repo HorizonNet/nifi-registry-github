@@ -16,7 +16,7 @@
             "comments" : "",
             "groupId" : "ea596e83-016d-1000-ed3d-8dd9227c0333",
             "id" : "6d2da3dc-6988-3b28-aa8b-668ba75d7b28",
-            "name" : "LogAttribute",
+            "name" : "Log something",
             "type" : "PROCESSOR"
           },
           "flowFileExpiration" : "0 sec",
@@ -61,7 +61,7 @@
           "executionNode" : "ALL",
           "groupIdentifier" : "fd926469-8508-3817-b661-963021dc0dbc",
           "identifier" : "6d2da3dc-6988-3b28-aa8b-668ba75d7b28",
-          "name" : "LogAttribute",
+          "name" : "Log something",
           "penaltyDuration" : "30 sec",
           "position" : {
             "x" : 895.0,
