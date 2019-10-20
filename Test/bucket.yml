@@ -1,6 +1,6 @@
 flows:
-  2d027e14-5e59-486a-9368-6ee5cfb32872: {ver: 4, file: ABCD.snapshot, comments: Changed
-      generation to binary format, author: anonymous, created: 1571596335055, flowName: ABCD,
-    flowDesc: This is a test flow}
+  2d027e14-5e59-486a-9368-6ee5cfb32872: {ver: 5, file: ABCD.snapshot, comments: Changed
+      logging level for target processor, author: anonymous, created: 1571596894726,
+    flowName: ABCD, flowDesc: This is a test flow}
 layoutVer: 1
 bucketId: f079e4da-e762-4698-a980-9fcb32e96ddb
