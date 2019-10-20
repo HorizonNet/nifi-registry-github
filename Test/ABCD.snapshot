@@ -68,6 +68,7 @@
             "y" : 190.0
           },
           "properties" : {
+            "Log prefix" : "${logPrefix}",
             "character-set" : "UTF-8",
             "Log Level" : "debug",
             "attributes-to-log-regex" : ".*",
@@ -202,7 +203,9 @@
           "yieldDuration" : "1 sec"
         } ],
         "remoteProcessGroups" : [ ],
-        "variables" : { }
+        "variables" : {
+          "logPrefix" : "prefix"
+        }
       }
     }
   }
